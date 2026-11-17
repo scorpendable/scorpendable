@@ -1,6 +1,9 @@
 <img width="2048" height="2048" alt="Untitled1324_20261102204904 (1)" src="https://github.com/user-attachments/assets/5f266ba1-2aa7-4790-9c3a-403de890ebfd" /><br/>
 <details>
-<summary>yumebeans</summary>
+<summary>yumeshits</summary>
 <img width="256" height="256" alt="Untitled1331_20261104165820" src="https://github.com/user-attachments/assets/8058a1a3-6c85-447f-85b4-bddf7632f174" />
+<img width="256" height="256" alt="Untitled1373_20261116160010" src="https://github.com/user-attachments/assets/67c67df1-a30f-41d6-a441-46ca5b2ddac8" />
+<img width="270" height="360" alt="IMG_6455" src="https://github.com/user-attachments/assets/1d180f93-cff2-4310-8260-dffa05ec311a" />
+<img width="256" height="256" alt="Untitled1385_20261117112534" src="https://github.com/user-attachments/assets/9fb8e3e9-49ef-472b-a3d0-b6d8f0015d78" />
 </details>
 
