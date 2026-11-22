@@ -29,4 +29,9 @@ mr. puzzles (smg4/cav)<br/>
 i'd prefer if yumes of these characters do not int<br/>
 except mr. puzzles and i can make exceptions but they<br/>
 are VERY VERY rare
+</details><br/>
+<br/>
+<details>
+<summary>my prison charge</summary>
+<img width="582" height="70" alt="Screenshot 2026-11-22 124925" src="https://github.com/user-attachments/assets/94b61da4-f9c6-4c4a-8c20-6170aca7fea2" />
 </details>
